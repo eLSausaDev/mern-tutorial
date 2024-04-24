@@ -1,11 +1,18 @@
 {
-  "name": 'mern-tutorial',
+  "name": "mern-tutorial",
   "version": "1.0.0",
-  "description": 'MERN Tutorial',
-  "main": 'server.js',
+  "description": "MERN Tutorial by Dave Gray",
+  "main": "server.js",
   "scripts": {
-    "start": 'node start'
+    "start": "node server",
+    "dev": "nodemon server"
   },
-  "author": 'eLSausa',
-  "license": 'MIT'
+  "author": "eLSausa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
