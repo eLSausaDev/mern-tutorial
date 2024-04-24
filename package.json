@@ -1,12 +1,11 @@
 {
-  "name": "mern-tutorial",
+  "name": 'mern-tutorial',
   "version": "1.0.0",
-  "description": "MERN Tutorial",
-  "main": "server.js",
+  "description": 'MERN Tutorial',
+  "main": 'server.js',
   "scripts": {
     "start": 'node start'
-    ''
   },
-  "author": "eLSausa",
-  "license": "MIT"
+  "author": 'eLSausa',
+  "license": 'MIT'
 }
