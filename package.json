@@ -1,11 +1,7 @@
 {
   "name": "mern-tutorial",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "MERN Tutorial by Dave Gray",
-=======
-  "description": "techNotes MERN Tutorial",
->>>>>>> 24d82ea (Clr13)
   "main": "server.js",
   "scripts": {
     "start": "node server",
